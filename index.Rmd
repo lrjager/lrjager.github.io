@@ -36,11 +36,11 @@ Leah Jager is an Assistant Scientist in the [Department of Biostatistics](https:
 
 **Methodology and baseline characteristics of a randomized controlled trial testing a health care professional and peer-support program for patients with chronic obstructive pulmonary disease: The BREATHE2 study** | Aboumatar H, Naqibuddin M, Neiman J, Saunders J, Kim S, Chaudhry H, Garcia-Morales E, Robinson N, McBurney M, **Jager L**, Ajayi T, Bone L, Chung S, Farrell B, Jin HJ, Linnell J, Pirfo M, Rand C, Riley P, Salvaterra C, Shea K, Singh J, Wise R | *Contemporary Clinical Trials* | 2020
 
-**Comparison of beginning R students’ perceptions of peer-made plots created in two plotting systems: a randomized experiment** | Myint L, Hadavand A, **Jager LR**, Leek JT | *Journal of Statistics Education* | 2020
+[**Comparison of beginning R students’ perceptions of peer-made plots created in two plotting systems: a randomized experiment**](https://www.tandfonline.com/doi/full/10.1080/10691898.2019.1695554) | Myint L, Hadavand A, **Jager LR**, Leek JT | *Journal of Statistics Education* | 2020
 
 **Adjuvant therapy for early stage, endometrial cancer with lymphovascular space invasion: Is there a role for chemotherapy?** | Beavis AL, Yen T, Stone RL, Wethington SL, Carr C, Son J, Chambers L, Michener CM, Ricci S, Burket WC, Richardson DL, Staley AS, Ahn S, Gehrig PA, Torres D, Dowdy S, Sullivan MW, Modesitt SC, Watson C, Veade A, Ehrisman J, Havrilesky L, Alvarez Secord A, Loreen A, Griffin K, Jackson A, Viswanathan AN, **Jager LR**, Fader AN | *Gynecologic Oncology* | 2020
 
-**Using Github Classroom to Teach Statistics** | Fiksel J, Hardin JS, **Jager LR**, Taub MA | *Journal of Statistics Education* | 2019
+[**Using Github Classroom to Teach Statistics**](https://www.tandfonline.com/doi/full/10.1080/10691898.2019.1617089) | Fiksel J, Hardin JS, **Jager LR**, Taub MA | *Journal of Statistics Education* | 2019
 
 **Risk of empty lymph node packets in sentinel lymph node mapping for endometrial cancer using indocyanine green** |Thomaier L, **Jager L**, Stone R, Wethington S, Fader A, Tanner, EJ | *International Journal of Gynecological Cancer* | 2019
 
