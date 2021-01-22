@@ -16,7 +16,7 @@ output:
  
 ### About
 
-Leah Jager is an Assistant Scientist in the [Department of Biostatistics](https://www.jhsph.edu/departments/biostatistics/) at the [Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu/).  Her primary interest is in statistics and data science education; she teaches biostatistics and data analysis to both undergraduates and graduate students at Johns Hopkins.  Her research focuses on human/data interaction, which involves studying the way people do data analysis.  She also holds an appointment in the [Johns Hopkins Biostatistics Center](https://www.jhsph.edu/research/centers-and-institutes/johns-hopkins-biostatistics-center/), where she provids statistical support to researchers across the Johns Hopkins community through walk-in clinics, short-term consultations, and longer-term grant participation.  
+Leah Jager is an Assistant Scientist in the [Department of Biostatistics](https://www.jhsph.edu/departments/biostatistics/) at the [Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu/).  Her primary interest is in statistics and data science education; she teaches biostatistics and data analysis to both undergraduates and graduate students at Johns Hopkins.  Her research focuses on human/data interaction, which involves studying the way people do data analysis.  She also holds an appointment in the [Johns Hopkins Biostatistics Center](https://www.jhsph.edu/research/centers-and-institutes/johns-hopkins-biostatistics-center/), where she provides statistical support to researchers across the Johns Hopkins community through walk-in clinics, short-term consultations, and longer-term grant participation.  
 
 ### Education
 
