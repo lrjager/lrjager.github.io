@@ -26,7 +26,9 @@ Leah Jager is an Assistant Scientist in the [Department of Biostatistics](https:
 
 ### Educational resources
 
-**Open Case Studies** | [https://www.opencasestudies.org/](https://www.opencasestudies.org/) | [https://americanhealth.jhu.edu/open-case-studies](https://americanhealth.jhu.edu/open-case-studies) | Repositories of complete data analyses to be used for educational purposes
+[**Open Case Studies (OCS)**](https://www.opencasestudies.org/) | [**Bloomberg American Health Initiative OCS**](https://americanhealth.jhu.edu/open-case-studies) | Repositories of complete data analyses meant to be used for educational purposes
+
+[**Cloud Based Data Science (CBDS)**](https://leanpub.com/universities/set/jhu/cloud-based-data-science) | Massive open online course for basic data science skills
 
 ### Recent courses
 
