@@ -40,7 +40,7 @@ Leah Jager is an Assistant Scientist in the [Department of Biostatistics](https:
 
 **Introduction to R for Public Health** | AS245.236 | Fall 2020 | Smaller companion course to Public Health Biostatistics focused on the R statistical language 
 
-### Recent Publications
+### Recent papers
 
 **Methodology and baseline characteristics of a randomized controlled trial testing a health care professional and peer-support program for patients with chronic obstructive pulmonary disease: The BREATHE2 study** | Aboumatar H, Naqibuddin M, Neiman J, Saunders J, Kim S, Chaudhry H, Garcia-Morales E, Robinson N, McBurney M, **Jager L**, Ajayi T, Bone L, Chung S, Farrell B, Jin HJ, Linnell J, Pirfo M, Rand C, Riley P, Salvaterra C, Shea K, Singh J, Wise R | *Contemporary Clinical Trials* | 2020
 
