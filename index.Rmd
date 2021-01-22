@@ -14,15 +14,21 @@ output:
   postcards::trestles
 ---
  
-## Bio
+### About
 
 Leah Jager is an Assistant Scientist in the [Department of Biostatistics](https://www.jhsph.edu/departments/biostatistics/) at the [Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu/).  Her primary interest is in statistics and data science education; she teaches biostatistics and data analysis to both undergraduates and graduate students at Johns Hopkins.  Her research focuses on human/data interaction, which involves studying the way people do data analysis.  She also holds an appointment in the [Johns Hopkins Biostatistics Center](https://www.jhsph.edu/research/centers-and-institutes/johns-hopkins-biostatistics-center/), where she provided statistical support to researchers across the Johns Hopkins community through walk-in clinics, short-term consultations, and longer-term grant participation.  
 
-## Educational resources
+### Education
+
+**PhD in Statistics** | [University of Washington](http://www.washington.edu/) | 2006
+
+**BS in Mathematics and Chemistry** | [Calvin College](https://calvin.edu/) | 2001
+
+### Educational resources
 
 **Open Case Studies** | [https://www.opencasestudies.org/](https://www.opencasestudies.org/) | [https://americanhealth.jhu.edu/open-case-studies](https://americanhealth.jhu.edu/open-case-studies) | Repositories of complete data analyses to be used for educational purposes
 
-## Recent courses
+### Recent courses
 
 **Health Data Analysis Practicum** | AS245.347 | Spring 2021 | Small seminar-style undergraduate course focused on formulating scientific questions, schoosing appropriate analyses, and creating graphical and tabular displays to communicate results to others
 
@@ -32,7 +38,7 @@ Leah Jager is an Assistant Scientist in the [Department of Biostatistics](https:
 
 **Introduction to R for Public Health** | AS245.236 | Fall 2020 | Smaller companion course to Public Health Biostatistics focused on the R statistical language.  
 
-## Recent Publications
+### Recent Publications
 
 **Methodology and baseline characteristics of a randomized controlled trial testing a health care professional and peer-support program for patients with chronic obstructive pulmonary disease: The BREATHE2 study** | Aboumatar H, Naqibuddin M, Neiman J, Saunders J, Kim S, Chaudhry H, Garcia-Morales E, Robinson N, McBurney M, **Jager L**, Ajayi T, Bone L, Chung S, Farrell B, Jin HJ, Linnell J, Pirfo M, Rand C, Riley P, Salvaterra C, Shea K, Singh J, Wise R | *Contemporary Clinical Trials* | 2020
 
