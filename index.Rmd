@@ -38,7 +38,7 @@ Leah Jager is an Assistant Scientist in the [Department of Biostatistics](https:
 
 **Public Health Biostatistics** | AS245.345 | Fall 2020 | Large introductory undergraduate course in biostatistics taught within a public health context 
 
-**Introduction to R for Public Health** | AS245.236 | Fall 2020 | Smaller companion course to Public Health Biostatistics focused on the R statistical language.  
+**Introduction to R for Public Health** | AS245.236 | Fall 2020 | Smaller companion course to Public Health Biostatistics focused on the R statistical language 
 
 ### Recent Publications
 
