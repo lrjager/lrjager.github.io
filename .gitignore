@@ -2,6 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
-*.Rmd
-*.jpg
+.Rmd
+s.jpg
 *.Rproj

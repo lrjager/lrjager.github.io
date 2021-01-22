@@ -1,0 +1,47 @@
+---
+title: "Leah Jager"
+image: "leah.jpg"
+links:
+  - label: Email
+    url: "mailto:ljager@jhu.edu"
+  - label: Twitter
+    url: "https://twitter.com/JagerLeah"
+  - label: GitHub
+    url: "https://github.com/lrjager"
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?user=m5yiaBkAAAAJ&hl=en"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Leah Jager is an Assistant Scientist in the [Department of Biostatistics](https://www.jhsph.edu/departments/biostatistics/) at the [Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu/).  Her primary interest is in statistics and data science education; she teaches biostatistics and data analysis to both undergraduates and graduate students at Johns Hopkins.  Her research focuses on human/data interaction, which involves studying the way people do data analysis.  She also holds an appointment in the [Johns Hopkins Biostatistics Center](https://www.jhsph.edu/research/centers-and-institutes/johns-hopkins-biostatistics-center/), where she provided statistical support to researchers across the Johns Hopkins community through walk-in clinics, short-term consultations, and longer-term grant participation.  
+
+## Educational resources
+
+**Open Case Studies** | [https://www.opencasestudies.org/](https://www.opencasestudies.org/) | [https://americanhealth.jhu.edu/open-case-studies](https://americanhealth.jhu.edu/open-case-studies) | Repositories of complete data analyses to be used for educational purposes
+
+## Recent courses
+
+**Health Data Analysis Practicum** | AS245.347 | Spring 2021 | Small seminar-style undergraduate course focused on formulating scientific questions, schoosing appropriate analyses, and creating graphical and tabular displays to communicate results to others
+
+**Statistical Methods in Public Health III** | PH140.623 | 3rd 2020 | Third term of a large introductory sequence in biostatistics aimed at graduate students (masters and PhD) in Public Health fields
+
+**Public Health Biostatistics** | AS245.345 | Fall 2020 | Large introductory undergraduate course in biostatistics taught within a public health context 
+
+**Introduction to R for Public Health** | AS245.236 | Fall 2020 | Smaller companion course to Public Health Biostatistics focused on the R statistical language.  
+
+## Recent Publications
+
+**Methodology and baseline characteristics of a randomized controlled trial testing a health care professional and peer-support program for patients with chronic obstructive pulmonary disease: The BREATHE2 study** | Aboumatar H, Naqibuddin M, Neiman J, Saunders J, Kim S, Chaudhry H, Garcia-Morales E, Robinson N, McBurney M, **Jager L**, Ajayi T, Bone L, Chung S, Farrell B, Jin HJ, Linnell J, Pirfo M, Rand C, Riley P, Salvaterra C, Shea K, Singh J, Wise R | *Contemporary Clinical Trials* | 2020
+
+**Comparison of beginning R students’ perceptions of peer-made plots created in two plotting systems: a randomized experiment** | Myint L, Hadavand A, **Jager LR**, Leek JT | *Journal of Statistics Education* | 2020
+
+**Adjuvant therapy for early stage, endometrial cancer with lymphovascular space invasion: Is there a role for chemotherapy?** | Beavis AL, Yen T, Stone RL, Wethington SL, Carr C, Son J, Chambers L, Michener CM, Ricci S, Burket WC, Richardson DL, Staley AS, Ahn S, Gehrig PA, Torres D, Dowdy S, Sullivan MW, Modesitt SC, Watson C, Veade A, Ehrisman J, Havrilesky L, Alvarez Secord A, Loreen A, Griffin K, Jackson A, Viswanathan AN, **Jager LR**, Fader AN | *Gynecologic Oncology* | 2020
+
+**Using Github Classroom to Teach Statistics** | Fiksel J, Hardin JS, **Jager LR**, Taub MA | *Journal of Statistics Education* | 2019
+
+**Risk of empty lymph node packets in sentinel lymph node mapping for endometrial cancer using indocyanine green** |Thomaier L, **Jager L**, Stone R, Wethington S, Fader A, Tanner, EJ | *International Journal of Gynecological Cancer* | 2019
+
+
